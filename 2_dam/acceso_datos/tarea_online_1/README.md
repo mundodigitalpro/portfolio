@@ -1,3 +1,13 @@
+
+# Contenido del Proyecto
+
+· Proyecto de Netbeans GuardarDatos desarrollado en Java.
+
+· Ejecutable .jar del proyecto desarrollado en Java.
+
+· Documento PDF con la memoria del ejercicio.
+
+
 # Descripción de la tarea
 ## Caso práctico
 Acceso a datos y manejo de ficheros.
