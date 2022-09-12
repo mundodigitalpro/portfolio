@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<autores>
+<autor>
+      <apellido>Ray</apellido>
+      <nombre>Erik T.</nombre>
+    </autor>
+<autor>
+      <apellido>Harold</apellido>
+      <nombre>Elliot Rusty</nombre>
+    </autor>
+<autor>
+    <apellido>Means</apellido>
+      <nombre>W. Scott</nombre>
+    </autor>
+<autor>
+      <apellido>van der Vlist</apellido>
+      <nombre>Eric</nombre>
+    </autor>
+<autor>
+      <apellido>Watt</apellido>
+      <nombre>Adrew</nombre>
+    </autor>
+<autor>
+      <apellido>Tennison</apellido>
+      <nombre>Jeni</nombre>
+    </autor>
+<autor>
+      <apellido>Walmsley</apellido>
+      <nombre>Priscilla</nombre>
+    </autor>
+</autores>

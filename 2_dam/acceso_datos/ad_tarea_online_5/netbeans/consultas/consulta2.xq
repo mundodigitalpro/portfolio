@@ -1,0 +1,1 @@
+for $titulo in /biblioteca/libros/libro let $autor := $titulo//autor where count($autor) > 1 order by $titulo/titulo return $titulo/titulo/text()

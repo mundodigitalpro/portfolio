@@ -1,0 +1,1 @@
+for $dato in doc("colecciones.xml")//inicio return update rename $dato as 'fechainicio'

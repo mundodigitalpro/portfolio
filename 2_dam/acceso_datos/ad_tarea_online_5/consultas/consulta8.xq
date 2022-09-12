@@ -1,0 +1,1 @@
+for $direccion in doc("colecciones.xml")//direccion return update delete $direccion
